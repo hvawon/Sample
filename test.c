@@ -18,6 +18,10 @@ void v_func(int i)
 	}
 	printf("\n");
 }
+void func_1(void)
+{
+	printf("This is func_1()");
+}	
 int main()
 {
 	i = i-1-ONE;
