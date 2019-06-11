@@ -25,6 +25,6 @@ int main()
 	printf("Hello World!\nPlease input i j:\n");
 	scanf(" %d %d",&i,&j);
 	printf("i+j=%d \n",i+j);
-	v_func(i);
+//	v_func(i);
 	return 0;
 }	
