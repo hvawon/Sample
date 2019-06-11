@@ -26,5 +26,6 @@ int main()
 	scanf(" %d %d",&i,&j);
 	printf("i+j=%d \n",i+j);
 //	v_func(i);
+//	Commnent
 	return 0;
 }	
